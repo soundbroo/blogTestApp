@@ -1,0 +1,61 @@
+.Sidebar {
+    display: flex;
+    flex-direction: column;
+    width: 360px;
+    background-color: #333333;
+    padding-left: 40px;
+}
+
+.Sidebar__sidebar-title {
+    margin-top: 50px;
+    font-size: 36px;
+    line-height: 40px;
+    color: #F0F0F0;
+}
+
+.Sidebar__sidebar-description {
+    margin-top: 20px;
+    font-size: 14px;
+    width: 320px;
+    line-height: normal;
+    color: #9B9B9B;
+}
+
+.sidebar__delimetr {
+    margin-top: 30px;
+    margin-left: 0px;
+    width: 200px;
+    border: 1px solid #5E5E5E;
+}
+
+.Sidebar-link {
+    margin-top: 30px;
+    font-size: 16px;
+    line-height: 20px;
+    text-transform: uppercase;
+    color: #969696;
+    text-decoration: none;
+}
+
+.about {
+    margin-top: 15px;
+}
+
+.Sidebar-icon {
+    display: flex;
+    margin-top: 30px;
+    width: 20px;
+    height: 20px;
+}
+
+.github-icon {
+    margin-left: 20px;
+}
+
+.instagram-icon {
+    margin-left: 20px;
+}
+
+.twitter-icon {
+    margin-left: 20px;
+}

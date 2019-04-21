@@ -1,0 +1,29 @@
+.post-layout {
+    height: 100vh;
+}
+
+.article-author {
+    font-size: 12px;
+    color: #969696;
+    padding-top: 15px;
+}
+
+.comments-delimetr {
+    width: 950px;
+    border: 1px solid #D3D3D3;
+    margin-right: 100px;
+}
+
+.comments-text {
+    text-align: justify;
+    font-size: 14px;
+    color: #000000;
+    width: 950px;
+}
+
+.comments-email {
+    font-size: 11px;
+    color: #969696;
+    margin-bottom: -15px;
+    margin-top: -15px;
+}
